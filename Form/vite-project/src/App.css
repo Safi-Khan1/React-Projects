@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.foorm form{
+  display: flex;
+  flex-direction: column;
+  border: 2px solid white;
+  width: 400px;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+}
+input, button{
+  width: 80%;
+  margin: 10px;
+  padding: 20px;
+}
+
+
+
+
